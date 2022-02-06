@@ -3,101 +3,196 @@
     margin: 0 auto;
 }
 nav a {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
     text-decoration: none;
     background-color: #1d47ff;
+    padding: 35px;
     color: black
 }
 #hero-msg h1 {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 #hero-msg h4 {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 .button-box {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 main section {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 #background {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     height: 725px;
 }
 body {
-    background-color: #fcfbfb; 
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #fcfbfb;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    margin: 0;
 }
 header {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     background-color: #f1d47f;
 }
 nav a:hover {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     background-color: #021777;
     color:white
 }
 .book {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
     background-color: #1d47ff;
     color: black;
 }
 .book:hover {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     background-color: #021777;
     color: white;
 }
 .join {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
     background-color: #ff8303;
     color: black;
 }
 .join:hover {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     background-color: #914800;
     color: white;
 }
 #background {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     background-color: white;
 }
 .msg {
-  background-color: #f9e900;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 35px;
+    background-color: #f9e900;
+    line-height: 1.5em;
 }
 footer {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 25px 50px;
+    padding-top: 25px;
+    margin-top: 200px;
     background-color: #f9e900;
 }
 .home-title {
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10px;
     background-color: white;
     color: black;
 }
 h4 {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     background-color: white;
     color: black;
 }
 .msg h2 {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     background-color: #1d47ff;
     color: black;
 }
 .msg p {
+    font-size: .8em;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 15px;
     background-color: #1d47ff;
     color: black
 }
 footer h3 {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     background-color: #f9e900;
     color: black
 }
 footer a {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
     background-color: #f9e900;
     color: black
 }
 footer a:hover {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     background-color: #6b6401;
     color: white
 }
 .logo {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     width: 80px;
 }
 .icon {
+    font-size: 22px;
+    padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
     width: 80px;
 }
 #hero-img {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     width: 100%;
 }
 footer h3 a:hover {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     text-decoration: underline;
+}
+#logo_link {
+    padding-top: 5px;
+}
+.social img {
+    padding-top: 15px;
+}
+.rivers-card {
+    margin: 200px 0;
+}
+.camping-card {
+    margin: 200px 0;
+}
+.rapids-card {
+    margin: 200px 0;
+}
+.card-img {
+    border: 10px;
+}
+main section img {
+    box-sizing: border-box;
 }
